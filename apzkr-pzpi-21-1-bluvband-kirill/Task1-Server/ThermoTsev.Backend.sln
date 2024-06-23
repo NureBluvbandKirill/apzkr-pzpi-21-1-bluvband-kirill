@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermoTsev.Backend.Domain", "ThermoTsev.Backend.Domain\ThermoTsev.Backend.Domain.csproj", "{314D9FE2-45F4-47DC-BDB5-D6D3CD0ACBA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermoTsev.Backend.BLL", "ThermoTsev.Backend.BLL\ThermoTsev.Backend.BLL.csproj", "{9B3B08E8-595A-4C0F-8F53-5A17A207928C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermoTsev.Backend.DAL", "ThermoTsev.Backend.DAL\ThermoTsev.Backend.DAL.csproj", "{67AC567A-FD26-461D-B71F-C632932E6309}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThermoTsev.Backend.API", "ThermoTsev.Backend.API\ThermoTsev.Backend.API.csproj", "{F55554BB-7257-4CC8-8349-2147E04BE0CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314D9FE2-45F4-47DC-BDB5-D6D3CD0ACBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314D9FE2-45F4-47DC-BDB5-D6D3CD0ACBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314D9FE2-45F4-47DC-BDB5-D6D3CD0ACBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314D9FE2-45F4-47DC-BDB5-D6D3CD0ACBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B3B08E8-595A-4C0F-8F53-5A17A207928C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3B08E8-595A-4C0F-8F53-5A17A207928C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3B08E8-595A-4C0F-8F53-5A17A207928C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3B08E8-595A-4C0F-8F53-5A17A207928C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67AC567A-FD26-461D-B71F-C632932E6309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AC567A-FD26-461D-B71F-C632932E6309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AC567A-FD26-461D-B71F-C632932E6309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AC567A-FD26-461D-B71F-C632932E6309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55554BB-7257-4CC8-8349-2147E04BE0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55554BB-7257-4CC8-8349-2147E04BE0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55554BB-7257-4CC8-8349-2147E04BE0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55554BB-7257-4CC8-8349-2147E04BE0CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
